@@ -1,7 +1,7 @@
 # 🧠 Natural Language Processing (NLP) Project
 
 This repository contains a collection of notebooks and case studies developed as part of my Master's studies class. It covers foundational and advanced topics in Natural Language Processing, from corpus statistics to neural models and real-world applications.  
-**This project was developed as part of the NLP course taught by Dr. [Adrián Pastor López Monrot].**
+**This project was developed as part of the NLP course taught by Dr. Adrián Pastor López Monroy.**
 
 
 ---
