@@ -18,7 +18,7 @@ This repository contains a collection of notebooks and case studies developed as
 - [`information_gain.ipynb`](word-representations/information_gain.ipynb) — Information Gain for feature ranking
 
 ### 🌌 Word Representations & Similarity
-- [`word_2_vec.ipynb` ] (word-representations/word_2_vec.ipynb) - Word 2 Vector for word representation
+- [`word_2_vec.ipynb`](word-representations/word_2_vec.ipynb) — Word2Vec for word representation
 - [`random_indexing.ipynb`](word-representations/random_indexing.ipynb) — Random indexing for word representations
 - [`word_similarity_graphs.ipynb`](word-representations/word_similarity_graphs.ipynb) — Word constellations and similarity graphs
 
